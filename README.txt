@@ -1,4 +1,4 @@
-This are the course projects/assignments for CSE 512 - Spring 2018 - Stony Brook University
+These are the course projects/assignments for CSE 512 - Spring 2018 - Stony Brook University
 
 Requirements:
 ============
